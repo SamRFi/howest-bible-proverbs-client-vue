@@ -1,0 +1,24 @@
+{
+    "hello": "Hello, world!",
+    "proverbs": "Proverbs",
+    "chapter": "Chapter",
+    "insights": "Insights",
+    "addInsightTitle" : "Add New Insight",
+    "addInsightButton": "Add Insight",
+    "verse": "Verse",
+    "content": "Content",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "actions": "Actions",
+    "logout": "logout",
+    "name": "Name",
+    "password": "Password",
+    "passwordConfirm": "Confirm Password",
+    "register": "Register",
+    "noAccount": "Don't have an account?",
+    "passwordLength": "Password must be at least 6 characters long",
+    "passwordMatch": "Passwords must match"
+}
+  
+  

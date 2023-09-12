@@ -1,0 +1,23 @@
+{
+    "hello": "Hallo, wereld!",
+    "proverbs": "Spreuken",
+    "chapter": "Hoofdstuk",
+    "insights": "Inzichten",
+    "addInsightTitle" : "Nieuw inzicht toevoegen",
+    "addInsightButton": "Voeg een nieuw inzicht toe",
+    "verse": "Vers" ,
+    "content": "Inhoud",
+    "save": "Opslaan",
+    "edit": "Bewerken",
+    "delete": "Verwijderen",
+    "actions": "Acties",
+    "logout": "Uitloggen",
+    "name": "Naam",
+    "password": "Wachtwoord",
+    "passwordConfirm": "Wachtwoord Bevestigen",
+    "register": "Registreren",
+    "noAccount": "Heb je nog geen account?",
+    "passwordLength": "Wachtwoord moet minimaal 6 tekens lang zijn",
+    "passwordMatch": "Wachtwoorden komen niet overeen"
+}
+  
